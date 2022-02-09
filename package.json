@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "face-api.js": "^0.22.2",
+    "react-toastify": "^8.1.0"
+  }
+}
